@@ -1,1 +1,5 @@
-# Customer-Churn-Analysis
+# Optimal Strategies for Minimizing Churn: Insights from Data Analysis
+
+Explore key factors influencing customer churn and unveil actionable insights for sustained business success. 
+
+Financial stability, tenure, and credit scores emerge as pivotal features, with longer-term contracts proving to be a potent churn deterrent. A nuanced examination of internet-related services reveals their correlation with customer dissatisfaction, urging a strategic shift. Total services, despite offering variety, paradoxically elevate churn rates, emphasizing the importance of personalized plans. Total charges, reflecting loyalty, play a crucial role in retention. Leveraging these findings, the recommendation is to offer competitive prices for core services, prioritizing quality over add-ons. Focusing on long-term contracts can attract financially unstable customers, fostering long-term loyalty. The tuned random forest analysis predicts churn rates with 91% accuracy, prioritizing features such as credit score per tenure, monthly charges, and contract type. Acknowledging model limitations, particularly regarding internet services, is crucial for nuanced decision-making.
